@@ -43,3 +43,6 @@ To ensure accessibility across different devices, mobile responsiveness has been
 
 To create a more harmonious and professional look, the overall layout has been restructured. The text has been aligned neatly beside the product image, maintaining symmetry and improving readability. By reducing excess text, the key selling points have been highlighted, ensuring that the message remains clear, concise, and engaging.  
 
+## OUTPUT
+
+<img width="296" alt="Image" src="https://github.com/user-attachments/assets/df0ccdba-199f-49f3-bac8-63f2c571b893" />
